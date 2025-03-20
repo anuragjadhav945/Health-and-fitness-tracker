@@ -1,0 +1,192 @@
+/* Dark Theme Styling for Dashboard */
+
+body{
+    background-color: #121212;
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.dashboard-container {
+    display: flex;
+    width: 90%;
+    height: 90vh;
+    background: #1c1c1c;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Sidebar Styling */
+  .sidebar {
+    width: 20%;
+    background: #181818;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .sidebar a{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px;
+    display: block;
+    width: 100%;
+    text-align: center;
+    border-radius: 10px;
+    transition: background 0.3s;
+  }
+
+  .sidebar a:hover{
+    background: #292929;
+  }
+
+  .sidebar.collapsed {
+    width: 80px;
+  }
+  
+  .toggle-btn {
+    background: none;
+    border: none;
+    color: #EAEAEA;
+    font-size: 24px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  .nav-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #EAEAEA;
+    text-decoration: none;
+    padding: 10px;
+    transition: background 0.3s;
+  }
+  
+  .nav-item:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
+  }
+  
+  /* Main Dashboard Content */
+  .dashboard-main {
+    flex-grow: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .dashboard-main::-webkit-scrollbar{
+    display: none;
+  }
+  
+  .dashboard-header h1 {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .summary-cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+  }
+
+  .summary-card{
+    background: #252525;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    width: 70px;
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease, background 0.3s ease;
+    cursor: pointer;
+    color: white;
+  }
+  .summary-card p{
+    font-size: 12px;
+  }
+
+
+  .summary-card:hover{
+    transform: translateY(-5px);
+    background: white;
+    color: #121212;
+  }
+
+  
+  .quick-actions {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 80%;
+  }
+  
+  .action-card {
+    background: #252525;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease, background 0.3s ease;
+    cursor: pointer;
+    color: white;
+    
+  }
+  
+  .action-card:hover {
+    transform: translateY(-5px);
+    background: white;
+    color: #121212;
+  }
+  
+  .action-card i{
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  /* Recent Activity Section */
+  .recent-activity {
+    width: 90%;
+    background: #252525;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    min-height: 100px;
+    margin-top: 20px;
+  }
+  .graphs-container{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    gap: 20px;
+  }
+
+  .graph-card{
+    background: #252525;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    width: 45%;
+    height: 200px;
+  }

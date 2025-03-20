@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Api\\_fitness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|h:\\api\\_fitness\\controllers\\caloriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|solutionrelative:controllers\\caloriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|h:\\api\\_fitness\\controllers\\trendscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|solutionrelative:controllers\\trendscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|h:\\api\\_fitness\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|h:\\api\\_fitness\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|solutionrelative:controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|h:\\api\\_fitness\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0280F781-E7AB-4D8A-A5CD-09598B0A567F}|_fitness.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calorieController.cs",
+              "DocumentMoniker": "H:\\Api\\_fitness\\Controllers\\calorieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\calorieController.cs",
+              "ToolTip": "H:\\Api\\_fitness\\Controllers\\calorieController.cs",
+              "RelativeToolTip": "Controllers\\calorieController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:12:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "workoutController.cs",
+              "DocumentMoniker": "H:\\Api\\_fitness\\Controllers\\workoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\workoutController.cs",
+              "ToolTip": "H:\\Api\\_fitness\\Controllers\\workoutController.cs",
+              "RelativeToolTip": "Controllers\\workoutController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:06:09.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trendsController.cs",
+              "DocumentMoniker": "H:\\Api\\_fitness\\Controllers\\trendsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\trendsController.cs",
+              "ToolTip": "H:\\Api\\_fitness\\Controllers\\trendsController.cs",
+              "RelativeToolTip": "Controllers\\trendsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:01:00.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Api\\_fitness\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Api\\_fitness\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:27:09.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userController.cs",
+              "DocumentMoniker": "H:\\Api\\_fitness\\Controllers\\userController.cs",
+              "RelativeDocumentMoniker": "Controllers\\userController.cs",
+              "ToolTip": "H:\\Api\\_fitness\\Controllers\\userController.cs",
+              "RelativeToolTip": "Controllers\\userController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T07:24:11.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

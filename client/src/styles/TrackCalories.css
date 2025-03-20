@@ -1,0 +1,86 @@
+/* TrackCalories.css */
+
+.track-calories {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.track-calories h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.meal-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.meal-input input {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    width: 50%;
+}
+
+.meal-input input:focus {
+    outline: none;
+    background-color: #444;
+}
+
+.meal-input button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100px;
+}
+
+.meal-input button:hover {
+    background-color: #444;
+}
+
+.meal-list {
+    margin-top: 20px;
+}
+
+.meal-list h3 {
+    margin-bottom: 10px;
+}
+
+.meal-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.meal-list li {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #333;
+    border-radius: 5px;
+}
+
+.meal-list li strong {
+    font-size: 18px;
+}
+
+.meal-list li:hover {
+    background-color: #444;
+}
+
+.total-calories {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
